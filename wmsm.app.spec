@@ -25,8 +25,8 @@ okien.
 
 %build
 %{__make} -C wmsm \
-	CFLAGS="%{rpmcflags} -I%{_includedir}" \
-	LIBDIR="-L%{_prefix}/X11R6/%{_lib}"
+	CFLAGS="%{rpmcflags}" \
+	LIBDIR="-L/usr/X11R6/%{_lib}"
 
 %install
 rm -rf $RPM_BUILD_ROOT
