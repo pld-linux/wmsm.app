@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=wmsm.app
+Comment=System monitor
+Comment[pl]=Monitor systemu
+Exec=wmsm
+Terminal=false
+Type=Application
+Categories=Applet;
+NotShowIn=GNOME;KDE;
+# vi: encoding=utf-8
