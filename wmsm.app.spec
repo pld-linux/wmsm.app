@@ -1,5 +1,5 @@
 Summary:	System monitor dock app
-Summary(pl):	Aplet monitoruj±cy system
+Summary(pl.UTF-8):   Aplet monitorujÄ…cy system
 Name:		wmsm.app
 Version:	0.2.0
 Release:	1
@@ -16,8 +16,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 wmsm.app is a system monitor for WindowMaker and other compatble
 window managers.
 
-%description -l pl
-Monitor systemu dla WindowMakera i innych kompatybilnych zarz±dców
+%description -l pl.UTF-8
+Monitor systemu dla WindowMakera i innych kompatybilnych zarzÄ…dcÃ³w
 okien.
 
 %prep
