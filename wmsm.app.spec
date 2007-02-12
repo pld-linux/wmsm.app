@@ -1,5 +1,5 @@
 Summary:	System monitor dock app
-Summary(pl.UTF-8):   Aplet monitorujący system
+Summary(pl.UTF-8):	Aplet monitorujący system
 Name:		wmsm.app
 Version:	0.2.0
 Release:	1
